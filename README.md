@@ -1,6 +1,7 @@
-# fp_modul_2
+# fp_2
 
-Final project modul 2 membuat aplikasi
+You can download the APK file that has been built via the following link
+https://drive.google.com/file/d/1Xj0pbOpal_m2j7eZfNTBOKa9fEYhz9_4/view?usp=drive_link
 
 ## Getting Started
 
